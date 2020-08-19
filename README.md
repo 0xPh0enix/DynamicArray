@@ -1,2 +1,2 @@
 # DynamicArray
-Simple C/C++ dynamic array implementation
+```C/C++ Dynamic array implementation```
